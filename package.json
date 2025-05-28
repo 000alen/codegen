@@ -1,0 +1,16 @@
+{
+  "name": "@000alen/codegen-root",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "keywords": [],
+  "author": "Alen Rubilar",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "lerna": "^8.2.2",
+    "typescript": "^5.8.3"
+  }
+}
